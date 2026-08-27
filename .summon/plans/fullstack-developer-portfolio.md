@@ -1,5 +1,5 @@
 ---
-status: pending
+status: implemented
 title: Full-Stack Developer Portfolio — Dark Terminal Style
 ---
 
