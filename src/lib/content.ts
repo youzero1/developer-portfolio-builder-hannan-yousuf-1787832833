@@ -12,7 +12,7 @@ import type {
  * Replace the placeholder values below with your real details.
  */
 export const profile: Profile = {
-  name: 'Alex Morgan',
+  name: 'John Doe',
   roles: [
     'Full-Stack Developer',
     'React & TypeScript Specialist',
@@ -36,8 +36,8 @@ export const profile: Profile = {
   currently:
     'Currently building internal developer tooling and mentoring two junior engineers.',
   socials: [
-    { label: 'GitHub', href: 'https://github.com', handle: '@alexmorgan', icon: 'github' },
-    { label: 'LinkedIn', href: 'https://linkedin.com', handle: '/in/alexmorgan', icon: 'linkedin' },
+    { label: 'GitHub', href: 'https://github.com', handle: '@johndoe', icon: 'github' },
+    { label: 'LinkedIn', href: 'https://linkedin.com', handle: '/in/johndoe', icon: 'linkedin' },
     { label: 'Email', href: 'mailto:hello@example.com', handle: 'hello@example.com', icon: 'mail' },
   ],
 };
@@ -303,7 +303,7 @@ export const testimonials: Testimonial[] = [
   {
     id: 't-1',
     quote:
-      'Alex has a rare ability to move between the database and the design review without losing the thread. Our dashboard rebuild landed early and the code is still easy to work in a year later.',
+      'John has a rare ability to move between the database and the design review without losing the thread. Our dashboard rebuild landed early and the code is still easy to work in a year later.',
     author: 'Priya Raman',
     role: 'Head of Product',
     company: 'Northwind Labs',

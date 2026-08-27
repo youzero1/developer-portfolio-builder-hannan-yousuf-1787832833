@@ -40,7 +40,7 @@ function RootLayout() {
 export function NotFound() {
   return (
     <div className="flex min-h-[70vh] items-center justify-center px-5 py-20">
-      <TerminalWindow title="alex@portfolio: ~" className="w-full max-w-lg glow-ring">
+      <TerminalWindow title="john@portfolio: ~" className="w-full max-w-lg glow-ring">
         <p className="text-muted">
           <span className="text-accent">$</span> open {typeof window !== 'undefined'
             ? window.location.pathname

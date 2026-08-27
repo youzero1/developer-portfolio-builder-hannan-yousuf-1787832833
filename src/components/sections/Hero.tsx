@@ -62,7 +62,7 @@ export function Hero() {
         </div>
 
         <div className="reveal">
-          <TerminalWindow title="alex@portfolio: ~" className="glow-ring">
+          <TerminalWindow title="john@portfolio: ~" className="glow-ring">
             <p className="text-muted">
               <span className="text-accent">$</span> cat profile.json
             </p>
