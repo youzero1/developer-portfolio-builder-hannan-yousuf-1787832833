@@ -12,7 +12,7 @@ import type {
  * Replace the placeholder values below with your real details.
  */
 export const profile: Profile = {
-  name: 'John Doe',
+  name: 'John Dev',
   roles: [
     'Full-Stack Developer',
     'React & TypeScript Specialist',
@@ -36,8 +36,8 @@ export const profile: Profile = {
   currently:
     'Currently building internal developer tooling and mentoring two junior engineers.',
   socials: [
-    { label: 'GitHub', href: 'https://github.com', handle: '@johndoe', icon: 'github' },
-    { label: 'LinkedIn', href: 'https://linkedin.com', handle: '/in/johndoe', icon: 'linkedin' },
+    { label: 'GitHub', href: 'https://github.com', handle: '@johndev', icon: 'github' },
+    { label: 'LinkedIn', href: 'https://linkedin.com', handle: '/in/johndev', icon: 'linkedin' },
     { label: 'Email', href: 'mailto:hello@example.com', handle: 'hello@example.com', icon: 'mail' },
   ],
 };
